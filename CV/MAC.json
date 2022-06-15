@@ -1,0 +1,295 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Félix",
+      "surnames": "Franco Rojas",
+      "title": "Front end developer",
+      "description": "Arquitecto técnico reconvertido a desarrollador web. Finalizado un master de Front End donde he adquirido conocimientos de Html, Css y Javascript, además de herramientas de bundling (webpack y parcel) junto con React, SOLID, Angular, NEXTJS, Vue, Svelte, herramientas de testing, Rest Api,... Y estoy deseando mostrar mis aptitudes.",
+      "avatar": {
+        "alt": "Foto cv.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/17/c3bb1d4c-3621-4f74-b2a6-7a98781aa932_foto-cv.jpg"
+      },
+      "location": {
+        "notes": "Málaga, Andalucía"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "My favourite musical group is Extremo Duro.",
+        "fact": "The Album: \"Agila\""
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Pharma Call",
+          "URL": "https://www.linkedin.com/company/pharma-call?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "coordinador",
+            "startDate": "2015-11-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "Procesos de selección de personal. Gestiones para el funcionamiento de la oficina (compra de materiales, soporte técnico para el mantenimiento informático, mantenimiento de la oficina). Creé la herramienta que se usa para la toma de los pedidos de los clientes. Análisis mensual de los trabajadores a mi cargo. Análisis anual de los valores globales para mejorar resultados. Apoyo diario a los compañeros en sus gestiones. Procesos de selección de personal. Gestiones para el funcionamiento de la oficina (compra de materiales, soporte técnico para el mantenimiento informático, mantenimiento de la oficina). Creé la herramienta que se usa para la toma de los pedidos de los clientes. Análisis mensual de los trabajadores a mi cargo. Análisis anual de los valores globales para mejorar resultados. Apoyo diario a los compañeros en sus gestiones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ICCS"
+        },
+        "roles": [
+          {
+            "name": "FORMADOR CONTACT CENTER",
+            "startDate": "2014-09-01",
+            "finishDate": "2015-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ICCS"
+        },
+        "roles": [
+          {
+            "name": "COORDINADOR CONTACT CENTER",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ICCS"
+        },
+        "roles": [
+          {
+            "name": "TELEOPERADOR ESPECIALISTA CONTACT CENTER",
+            "startDate": "2013-08-01",
+            "finishDate": "2014-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CATSA"
+        },
+        "roles": [
+          {
+            "name": "AGENTE COMERCIAL CALL CENTER",
+            "startDate": "2011-07-01",
+            "finishDate": "2013-07-31",
+            "challenges": [
+              {
+                "description": "Captación, recuperación, retención de clientes cumpliendo los objetivos marcados para CANAL +. Captación, recuperación, retención de clientes cumpliendo los objetivos marcados para CANAL +."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBERGRACOM"
+        },
+        "roles": [
+          {
+            "name": "ASESOR COMERCIAL SECTOR SERVICIOS",
+            "startDate": "2010-01-01",
+            "finishDate": "2011-06-30",
+            "challenges": [
+              {
+                "description": "Ampliación de cartera de clientes para IBERDROLA, tanto residencial como empresas, realización de contratos, seguimiento de clientes, presupuestos y resolución de incidencias. Ampliación de cartera de clientes para IBERDROLA, tanto residencial como empresas, realización de contratos, seguimiento de clientes, presupuestos y resolución de incidencias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INVERSORA SIREC"
+        },
+        "roles": [
+          {
+            "name": "JEFE DE OBRA",
+            "startDate": "2008-08-01",
+            "finishDate": "2009-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INVERSORA SIREC"
+        },
+        "roles": [
+          {
+            "name": "AYUDANTE DE JEFE DE OBRA",
+            "startDate": "2007-07-01",
+            "finishDate": "2008-07-31"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master Front End Informática",
+        "startDate": "2021-01-01",
+        "finishDate": "2022-12-31",
+        "institution": {
+          "name": "Lemoncoders",
+          "URL": "https://www.linkedin.com/school/lemoncode-freelancers/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bootcamp JavaScript Informática",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-12-31",
+        "institution": {
+          "name": "Lemoncoders",
+          "URL": "https://www.linkedin.com/school/lemoncode-freelancers/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diplomatura Arquitectura Técnica",
+        "startDate": "2003-01-01",
+        "finishDate": "2008-12-31",
+        "institution": {
+          "name": "Escuela Universitaria de Arquitectura Técnica"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/félix-franco-rojas"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
